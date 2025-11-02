@@ -1,6 +1,6 @@
-# PIES · AntelopeJS Monorepo (skeleton)
+# PIES ·  Monorepo (skeleton)
 
-Monorepo pnpm pour le back-end PIES basé sur une architecture modulaire proche d'AntelopeJS.
+
 Ce squelette contient :
 - `packages/` : interfaces partagées, utilitaires communs.
 - `services/` : microservices (api-gateway, deposit, tsa, chain, cert, verify, identity, audit, admin).
